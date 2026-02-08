@@ -1,6 +1,6 @@
 public class exp {
     public static void main(String[] args) {
-                int a = 9;
+                int a = 10;
                 int b = 10;
 
         try {
